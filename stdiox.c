@@ -1,6 +1,5 @@
 /**
- * NAME:    John Graham
- * PLEDGE:  I pledge my honor that I have abided by the Stevens Honor System.
+ * AUTHOR:    John Graham
  * 
  * FILE: stdiox.c
 */
